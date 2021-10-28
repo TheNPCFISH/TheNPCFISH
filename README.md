@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheNPCFISH, but you can call me NPCFISH
+- 👀 I’m interested in Roblox
+- 🌱 I’m currently learning Lua
